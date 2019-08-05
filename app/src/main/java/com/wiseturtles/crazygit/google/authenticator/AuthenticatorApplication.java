@@ -17,7 +17,7 @@
 package com.wiseturtles.crazygit.google.authenticator;
 
 import android.net.http.HttpResponseCache;
-import android.support.multidex.MultiDexApplication;
+import androidx.multidex.MultiDexApplication;
 import android.util.Log;
 import com.wiseturtles.crazygit.google.authenticator.testability.DaggerInjector;
 import com.wiseturtles.crazygit.google.authenticator.testability.DependencyInjector;

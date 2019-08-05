@@ -21,7 +21,7 @@ import android.app.Activity;
 import android.content.Context;
 import android.os.Build.VERSION;
 import android.os.Build.VERSION_CODES;
-import android.support.v4.app.ActivityCompat;
+import androidx.core.app.ActivityCompat;
 import com.google.common.base.Preconditions;
 
 /** Runtime permission requestor implementation for Android M and above. */

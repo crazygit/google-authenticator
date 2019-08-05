@@ -18,7 +18,7 @@ package com.wiseturtles.crazygit.google.authenticator.testability;
 
 import android.content.ComponentName;
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 
 /** Base class for {@link AppCompatActivity} instances to make them more testable. */
 public class TestableActivity extends AppCompatActivity {

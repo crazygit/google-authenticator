@@ -19,7 +19,7 @@ package com.wiseturtles.crazygit.google.authenticator.barcode.preview;
 import android.Manifest.permission;
 import android.content.Context;
 import android.content.res.Configuration;
-import android.support.annotation.RequiresPermission;
+import androidx.annotation.RequiresPermission;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.view.SurfaceHolder;

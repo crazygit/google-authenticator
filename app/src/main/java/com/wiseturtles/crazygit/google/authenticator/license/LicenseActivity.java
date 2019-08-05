@@ -17,7 +17,7 @@
 package com.wiseturtles.crazygit.google.authenticator.license;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.view.MenuItem;
 import android.widget.ScrollView;
 import android.widget.TextView;

@@ -18,7 +18,7 @@ package com.wiseturtles.crazygit.google.authenticator.enroll2sv.wizard;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.v7.widget.Toolbar;
+import androidx.appcompat.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -27,7 +27,6 @@ import com.wiseturtles.crazygit.google.authenticator.AuthenticatorActivity;
 import com.wiseturtles.crazygit.google.authenticator.howitworks.HowItWorksActivity;
 import com.wiseturtles.crazygit.google.authenticator.otp.EnterKeyActivity;
 import com.wiseturtles.crazygit.google.authenticator.settings.SettingsActivity;
-import com.wiseturtles.crazygit.google.authenticator.testability.DependencyInjector;
 import com.wiseturtles.crazygit.google.authenticator.testability.TestableActivity;
 import com.wiseturtles.crazygit.google.authenticator.R;
 
